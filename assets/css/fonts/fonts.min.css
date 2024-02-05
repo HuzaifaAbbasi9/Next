@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'fontawesome';
+    src: url('fontawesome-webfont3e6e.svg');
+    src: url('fontawesome-webfont3e6e.eot') format('embedded-opentype'), url('fontawesome-webfont3e6e.woff') format('woff'), url('fontawesome-webfont3e6e.woff') format('woff'), url('fontawesome-webfont3e6e.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ionicons';
+    src: url('ionicons28b5.svg');
+    src: url('ionicons28b5.eot') format('embedded-opentype'), url('ionicons28b5.woff') format('woff'), url('ionicons28b5.woff') format('woff2'), url('ionicons28b5.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'IranianSans';
+    src: url('IranianSans.svg');
+    src: url('IranianSans.eot') format('embedded-opentype'), url('IranianSans.woff') format('woff'), url('IranianSans.woff') format('woff2'), url('IranianSans.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "AzoSans";
+    src: url("AzoSans-Light-webfont.woff2") format('woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "AzoSansRegular";
+    src: url("AzoSans-Regular-webfont.woff2") format('woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "AzoSansMedium";
+    src: url("AzoSans-Medium-webfont.woff2") format('woff2');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "AzoSansItalic";
+    src: url("AzoSans-Italic-webfont.woff2") format('woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "AzoSans";
+    src: url("AzoSans-Light-webfont.woff2") format('woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "AzoSansRegular";
+    src: url("AzoSans-Regular-webfont.woff2") format('woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "AzoSansMedium";
+    src: url("AzoSans-Medium-webfont.woff2") format('woff2');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "AzoSansItalic";
+    src: url("AzoSans-Italic-webfont.woff2") format('woff2');
+    font-weight: 400;
+}
+
+#platform_modernisation_header {
+    font-family: "AzoSansRegular", "Helvetica Neue", Arial, sans-serif;
+}
